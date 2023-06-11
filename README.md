@@ -1,1 +1,1 @@
-# magepow-shopify-app-infinite-scroll-wiki
+# MagepowApps Shopify App Infinite Scroll Wiki
