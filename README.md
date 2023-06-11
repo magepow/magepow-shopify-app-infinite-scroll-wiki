@@ -1,0 +1,1 @@
+# magepow-shopify-app-infinite-scroll-wiki
